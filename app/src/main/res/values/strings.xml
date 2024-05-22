@@ -4,5 +4,6 @@
     <string name="app_name">Gyro Compass</string>
 
     <string name="sensors_unavailable">Required sensors not present!</string>
+    <string name="sensors_available">Required sensors ARE present!</string>
 
 </resources>
